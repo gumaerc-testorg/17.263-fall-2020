@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 696fbdf7-b41f-9956-9bad-39c9915c1770
 ---
@@ -31,7 +34,7 @@ _Submit the race that you plan to follow and report on. Please specify office, s
     _
 *   _U.S. senator ([Class III](https://en.wikipedia.org/wiki/Classes_of_United_States_senators)), Georgia  
     _
-*   _U.S. representative, Texas, 2nd district  
+*   _U.S. representative, Texas, 2{{< sup "nd" >}} district  
     _
 *   _Mayor, Baltimore, Maryland_
 
