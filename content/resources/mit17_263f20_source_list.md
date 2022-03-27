@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 696fbdf7-b41f-9956-9bad-39c9915c1770
 resourcetype: Document
 title: '17.263F20 American Elections, Assignments: Source List'
 uid: 1fcfdb8b-25e0-604f-690b-b64f94942c9e
