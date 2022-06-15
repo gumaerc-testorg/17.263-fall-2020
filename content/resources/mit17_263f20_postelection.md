@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-263-american-elections-fall-2020/cf3ecd5380ca63fb2026549c3d676e5b_MIT17_263F20_Postelection.pdf
+file: /courses/17-263-american-elections-fall-2020/cf3ecd5380ca63fb2026549c3d676e5b_MIT17_263F20_Postelection.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

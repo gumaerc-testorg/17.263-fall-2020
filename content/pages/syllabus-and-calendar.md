@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the course description, learning goals, required
+  book, and calendar.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-There are no formal prerequisites, though it is helpful to have previously taken an introductory political science course such as _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013/)_.
+There are no formal prerequisites, though it is helpful to have previously taken an introductory political science course such as _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013)_.
 
 Course Description 
 -------------------
@@ -49,7 +51,7 @@ Required Books
 
 Sides, John, Daron Shaw, Matt Grossmann, et al. _[Campaigns and Elections](https://wwnorton.com/books/9780393664676)_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings can be found in the {{% resource_link 15367b5d-035b-00e7-0730-5ec39cd968d1 "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -133,7 +135,7 @@ Final post-election report
 
 {{< tableclose >}}
 
-For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities above, see the {{% resource_link 696fbdf7-b41f-9956-9bad-39c9915c1770 "Assignments" %}} section.
 
 Calendar
 --------

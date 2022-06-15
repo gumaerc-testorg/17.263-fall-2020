@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-263-american-elections-fall-2020/7b46042d97e994d94971858913b1c9e4_MIT17_263F20_Preelection.pdf
+file: /courses/17-263-american-elections-fall-2020/7b46042d97e994d94971858913b1c9e4_MIT17_263F20_Preelection.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

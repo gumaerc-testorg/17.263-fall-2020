@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the course topics and their accompanying readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -119,7 +120,7 @@ Development of the American Electorate
 
 Valelly, Richard. "[How Suffrage Politics Made—and Makes—America](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199697915.001.0001/oxfordhb-9780199697915-e-34)." Chapter 22 in _The Oxford Handbook of American Political Development_. Edited by Richard Valelly, Suzanne Mettler, and Robert C. Lieberman. Oxford University Press, 2016. ISBN: 9780199697915. 
 
-Wolbrecht, Christina, and J. Kevin Corder. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Turning Rights into Ballots: The Uneven Integration of Women into Electoral Politics after Suffrage." (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/700F278D72E5408C3845A43381DF31DD/S104909652000027Xa.pdf/turning-rights-into-ballots-the-uneven-integration-of-women-into-electoral-politics-after-suffrage.pdf) _PS: Political Science & Politics_ 53, no. 3 (2020): 479–83.
+Wolbrecht, Christina, and J. Kevin Corder. ["Turning Rights into Ballots: The Uneven Integration of Women into Electoral Politics after Suffrage." (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/700F278D72E5408C3845A43381DF31DD/S104909652000027Xa.pdf/turning-rights-into-ballots-the-uneven-integration-of-women-into-electoral-politics-after-suffrage.pdf) _PS: Political Science & Politics_ 53, no. 3 (2020): 479–83.
 
 
 {{< tdclose >}}
@@ -225,7 +226,7 @@ Nominations
 
 Ansolabehere, Stephen, John Mark Hansen, Shigeo Hirano, et al. "[More Democracy: The Direct Primary and Competition in U.S. Elections](https://www.researchgate.net/publication/232018442_More_Democracy_The_Direct_Primary_and_Competition_in_US_Elections)." _Studies in American Political Development_ 24, no. 2 (2010): 190–205. 
 
-Cohen, Marty, David Karol, Hans Noel, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Political Parties in Rough Weather." (PDF)](https://themonkeycage.org/wp-content/uploads/2008/01/Cohen-Karol-Noel-Zaller.Parties.Decide.pdf) _The Forum_ 5, no. 4 (2008): 1–23.
+Cohen, Marty, David Karol, Hans Noel, et al. ["Political Parties in Rough Weather." (PDF)](https://themonkeycage.org/wp-content/uploads/2008/01/Cohen-Karol-Noel-Zaller.Parties.Decide.pdf) _The Forum_ 5, no. 4 (2008): 1–23.
 
 
 {{< tdclose >}}
@@ -475,7 +476,7 @@ Voter Choice
 
 \[S\] Chapter 13: Voter Choice.
 
-Review the final prediction of your favorite election forecaster. (See [Assignments]({{< baseurl >}}/pages/assignments).)
+Review the final prediction of your favorite election forecaster. (See {{% resource_link 696fbdf7-b41f-9956-9bad-39c9915c1770 "Assignments" %}}.)
 
 
 {{< tdclose >}}
@@ -635,7 +636,7 @@ Presentations
 {{< tdopen >}}
 
 
-Classmates' post-election reports. (See [Assignments]({{< baseurl >}}/pages/assignments).)
+Classmates' post-election reports. (See {{% resource_link 696fbdf7-b41f-9956-9bad-39c9915c1770 "Assignments" %}}.)
 
 
 {{< tdclose >}}
