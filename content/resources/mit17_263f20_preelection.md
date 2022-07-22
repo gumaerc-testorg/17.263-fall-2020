@@ -5,6 +5,7 @@ file: /courses/17-263-american-elections-fall-2020/7b46042d97e994d94971858913b1c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
