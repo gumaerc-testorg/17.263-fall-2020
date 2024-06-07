@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-263-american-elections-fall-2020/1fcfdb8b25e0604f690bb64f94942c9e_MIT17_263F20_Source_List.pdf
+file_size: 143141
 file_type: application/pdf
 learning_resource_types:
 - Assignments
