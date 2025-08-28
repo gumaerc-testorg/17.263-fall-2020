@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-263-american-elections-fall-2020/7b46042d97e994d94971858913b1c9e4_MIT17_263F20_Preelection.pdf
+file: /ol-ocw-studio-app/courses/17-263-american-elections-fall-2020/7b46042d97e994d94971858913b1c9e4_MIT17_263F20_Preelection.pdf
 file_size: 101374
 file_type: application/pdf
 learning_resource_types:
