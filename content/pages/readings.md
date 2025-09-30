@@ -8,7 +8,7 @@ title: Readings
 uid: 15367b5d-035b-00e7-0730-5ec39cd968d1
 ---
 
-\[S\] = Sides, John, Daron Shaw, Matt Grossmann, et al. _[Campaigns and Elections](https://wwnorton.com/books/9780393664676)_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
+\[S\] = Sides, John, Daron Shaw, Matt Grossmann, et al. _{{% resource_link "346d99a5-bc2d-4fe3-9859-519577107d54" "Campaigns and Elections" %}}_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -70,7 +70,7 @@ The Logic of Electoral Democracy
 
 \[S\] Chapter 1: Introduction. 
 
-Manin, Bernard, Adam Przeworski, and Susan C. Stokes. "Elections and Representation." Chapter 1 in _Democracy, Accountability, and Representation_. Edited by Adam Przeworski, Susan C. Stokes, and Bernard Manin. Cambridge University Press, 1999. ISBN: 9780521646161. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_Accountability_and_Representat/aid08OpvF5gC?hl=en&gbpv=1&dq=Democracy,+Accountability,+and+Representation&printsec=frontcover)\]
+Manin, Bernard, Adam Przeworski, and Susan C. Stokes. "Elections and Representation." Chapter 1 in _Democracy, Accountability, and Representation_. Edited by Adam Przeworski, Susan C. Stokes, and Bernard Manin. Cambridge University Press, 1999. ISBN: 9780521646161. \[Preview with {{% resource_link "929c302d-4983-4bf9-94be-fbc64088bb73" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -118,9 +118,9 @@ Development of the American Electorate
 {{< tdopen >}}
 
 
-Valelly, Richard. "[How Suffrage Politics Made—and Makes—America](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199697915.001.0001/oxfordhb-9780199697915-e-34)." Chapter 22 in _The Oxford Handbook of American Political Development_. Edited by Richard Valelly, Suzanne Mettler, and Robert C. Lieberman. Oxford University Press, 2016. ISBN: 9780199697915. 
+Valelly, Richard. "{{% resource_link "a942d6d0-b41a-4c00-a070-3f1f6c351e6a" "How Suffrage Politics Made—and Makes—America" %}}." Chapter 22 in _The Oxford Handbook of American Political Development_. Edited by Richard Valelly, Suzanne Mettler, and Robert C. Lieberman. Oxford University Press, 2016. ISBN: 9780199697915. 
 
-Wolbrecht, Christina, and J. Kevin Corder. ["Turning Rights into Ballots: The Uneven Integration of Women into Electoral Politics after Suffrage." (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/700F278D72E5408C3845A43381DF31DD/S104909652000027Xa.pdf/turning-rights-into-ballots-the-uneven-integration-of-women-into-electoral-politics-after-suffrage.pdf) _PS: Political Science & Politics_ 53, no. 3 (2020): 479–83.
+Wolbrecht, Christina, and J. Kevin Corder. {{% resource_link "77d2ebd1-6fc3-47c7-afde-b1738204b157" "\"Turning Rights into Ballots: The Uneven Integration of Women into Electoral Politics after Suffrage.\" (PDF)" %}} _PS: Political Science & Politics_ 53, no. 3 (2020): 479–83.
 
 
 {{< tdclose >}}
@@ -146,7 +146,7 @@ Development of the American Elections
 
 \[S\] Chapter 3: The Transformation of American Campaigns.
 
-Bensel, Richard. "[The American Ballot Box: Law, Identity, and the Polling Place in the Mid-Nineteenth Century](https://www.cambridge.org/core/journals/studies-in-american-political-development/article/the-american-ballot-box-law-identity-and-the-polling-place-in-the-mid-nineteenth-century/2B09AD4E4C280D6D30CAB409D0F45F43)." _Studies in American Political Development_ 17, no. 1 (2003): 1–27.
+Bensel, Richard. "{{% resource_link "78cca949-16cb-4a62-834b-b03ae57a5432" "The American Ballot Box: Law, Identity, and the Polling Place in the Mid-Nineteenth Century" %}}." _Studies in American Political Development_ 17, no. 1 (2003): 1–27.
 
 
 {{< tdclose >}}
@@ -172,7 +172,7 @@ Political Parties
 
 \[S\] Chapter 6: Political Parties. 
 
-White, Ismail K., Chryl N. Laird, and Troy D. Allen. "[Selling Out?: The Politics of Navigating Conflicts between Racial Group Interest and Self-interest](https://www.cambridge.org/core/journals/american-political-science-review/article/selling-out-the-politics-of-navigating-conflicts-between-racial-group-interest-and-selfinterest/067DAC12A46715BAFAF1172F239AEA1F)." _American Political Science Review_ 108, no. 4 (2014): 783–800.
+White, Ismail K., Chryl N. Laird, and Troy D. Allen. "{{% resource_link "d528b180-1dfe-41e0-827a-3f57cf247d58" "Selling Out?: The Politics of Navigating Conflicts between Racial Group Interest and Self-interest" %}}." _American Political Science Review_ 108, no. 4 (2014): 783–800.
 
 
 {{< tdclose >}}
@@ -196,11 +196,11 @@ Candidates
 {{< tdopen >}}
 
 
-Fox, Richard L., and Jennifer L. Lawless. "[Uncovering the Origins of the Gender Gap in Political Ambition](https://www.cambridge.org/core/journals/american-political-science-review/article/uncovering-the-origins-of-the-gender-gap-in-political-ambition/F982DF854F45E1954AD0F5C7B9509353)." _American Political Science Review_ 108, no. 3 (2014): 499–519.
+Fox, Richard L., and Jennifer L. Lawless. "{{% resource_link "b6ee79be-7f47-4126-a6d0-8e2862171fb1" "Uncovering the Origins of the Gender Gap in Political Ambition" %}}." _American Political Science Review_ 108, no. 3 (2014): 499–519.
 
-Thomsen, Danielle M. "[Ideological Moderates Won't Run: How Party Fit Matters for Partisan Polarization in Congress](https://www.semanticscholar.org/paper/Ideological-Moderates-Won%E2%80%99t-Run%3A-How-Party-Fit-for-Thomsen/5d154728f7ce27ca1f7c5b0ca5cf8ba17db97c7c)." _Journal of Politics_ 76, no. 3 (2014): 786–97
+Thomsen, Danielle M. "{{% resource_link "139cc406-1332-4270-a9e6-e3a32147ee8d" "Ideological Moderates Won't Run: How Party Fit Matters for Partisan Polarization in Congress" %}}." _Journal of Politics_ 76, no. 3 (2014): 786–97
 
-Carnes, Nicholas. "[Why Are There So Few Working-Class People in Political Office? Evidence from State Legislatures](https://www.tandfonline.com/doi/abs/10.1080/21565503.2015.1066689)." _Politics, Groups, and Identities_ 4, no. 1 (2016): 84–109.
+Carnes, Nicholas. "{{% resource_link "d4103933-1506-426a-9f50-82d303031b62" "Why Are There So Few Working-Class People in Political Office? Evidence from State Legislatures" %}}." _Politics, Groups, and Identities_ 4, no. 1 (2016): 84–109.
 
 
 {{< tdclose >}}
@@ -224,9 +224,9 @@ Nominations
 {{< tdopen >}}
 
 
-Ansolabehere, Stephen, John Mark Hansen, Shigeo Hirano, et al. "[More Democracy: The Direct Primary and Competition in U.S. Elections](https://www.researchgate.net/publication/232018442_More_Democracy_The_Direct_Primary_and_Competition_in_US_Elections)." _Studies in American Political Development_ 24, no. 2 (2010): 190–205. 
+Ansolabehere, Stephen, John Mark Hansen, Shigeo Hirano, et al. "{{% resource_link "7861f252-7fd9-4c9f-8080-b1727d605004" "More Democracy: The Direct Primary and Competition in U.S. Elections" %}}." _Studies in American Political Development_ 24, no. 2 (2010): 190–205. 
 
-Cohen, Marty, David Karol, Hans Noel, et al. ["Political Parties in Rough Weather." (PDF)](https://themonkeycage.org/wp-content/uploads/2008/01/Cohen-Karol-Noel-Zaller.Parties.Decide.pdf) _The Forum_ 5, no. 4 (2008): 1–23.
+Cohen, Marty, David Karol, Hans Noel, et al. {{% resource_link "282b193d-e746-421d-bac6-44c83b047492" "\"Political Parties in Rough Weather.\" (PDF)" %}} _The Forum_ 5, no. 4 (2008): 1–23.
 
 
 {{< tdclose >}}
@@ -250,9 +250,9 @@ Fundamental Factors in General Elections
 {{< tdopen >}}
 
 
-Mayhew, David R. "[Incumbency Advantage in U.S. Presidential Elections: The Historical Record](https://go.gale.com/ps/anonymous?id=GALE%7CA180663651&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00323195&p=AONE&sw=w)." _Political Science Quarterly_ 123, no. 2 (2008): 201–28.
+Mayhew, David R. "{{% resource_link "7ad3b8e5-1839-4efc-acb4-b3f5a582882b" "Incumbency Advantage in U.S. Presidential Elections: The Historical Record" %}}." _Political Science Quarterly_ 123, no. 2 (2008): 201–28.
 
-Lewis-Beck, Michael S., and Mary Stegmaier. "[Economic Determinants of Electoral Outcomes](https://www.researchgate.net/publication/246007451_Economic_Determinants_of_Electoral_Outcomes)." _Annual Review of Political Science_ 3, no. 1 (2000): 183–219.
+Lewis-Beck, Michael S., and Mary Stegmaier. "{{% resource_link "496a5fcd-f5cf-45fd-8ba1-88bf17316660" "Economic Determinants of Electoral Outcomes" %}}." _Annual Review of Political Science_ 3, no. 1 (2000): 183–219.
 
 
 {{< tdclose >}}
@@ -276,7 +276,7 @@ Forecasting Elections
 {{< tdopen >}}
 
 
-Hillygus, D. Sunshine. "[The Evolution of Election Polling in the United States](https://academic.oup.com/poq/article/75/5/962/1830219)." _Public Opinion Quarterly_ 75, no. 5 (2011): 962–81.
+Hillygus, D. Sunshine. "{{% resource_link "e4c0e299-3b2a-435d-9298-dc130a893cf7" "The Evolution of Election Polling in the United States" %}}." _Public Opinion Quarterly_ 75, no. 5 (2011): 962–81.
 
 Silver, Nate. "Are You Smarter than a Television Pundit?" Chapter 2 in _The Signal and the Noise: Why So Many Predictions Fail—but Some Don't_. Penguin Press, 2012. ISBN: 9781594204111. 
 
@@ -330,7 +330,7 @@ Campaign Strategies
 
 \[S\] Chapter 5: Modern Campaign Strategies.
 
-Mendelberg, Tali. "A Theory of Racial Appeals." Chapter 1 in _The Race Card: Campaign Strategy, Implicit Messages, and the Norm of Equality_. Princeton University Press, 2001. ISBN: 9780691070704. \[Preview with [Google Books](https://www.google.com/books/edition/The_Race_Card/pd8yDwAAQBAJ?hl=en&gbpv=1&dq=The+Race+Card:+Campaign+Strategy,+Implicit+Messages,+and+the+Norm+of+Equality&printsec=frontcover)\]
+Mendelberg, Tali. "A Theory of Racial Appeals." Chapter 1 in _The Race Card: Campaign Strategy, Implicit Messages, and the Norm of Equality_. Princeton University Press, 2001. ISBN: 9780691070704. \[Preview with {{% resource_link "255b9cff-5c33-485b-a543-1bd269fa63d9" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -356,7 +356,7 @@ Media and Information
 
 \[S\] Chapter 8: Media. 
 
-Jerit, Jennifer. "How People Learn About Politics: Navigating the Information Environment." Chapter 12 in _New Directions in Public Opinion_. 3rd ed. Edited by Adam J. Berinsky. Routledge, 2019. ISBN: 9781138483552. \[Preview with [Google Books](https://www.google.com/books/edition/New_Directions_in_Public_Opinion/BOK5DwAAQBAJ?hl=en&gbpv=1&dq=New+Directions+in+Public+Opinion&printsec=frontcover)\]
+Jerit, Jennifer. "How People Learn About Politics: Navigating the Information Environment." Chapter 12 in _New Directions in Public Opinion_. 3rd ed. Edited by Adam J. Berinsky. Routledge, 2019. ISBN: 9781138483552. \[Preview with {{% resource_link "c2e76142-1a5c-4612-b96f-6d20e8663f36" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -450,7 +450,7 @@ Voter Participation
 
 \[S\] Chapter 12: Voter Participation.
 
-Fraga, Bernard L. "[Candidates or Districts? Reevaluating the Role of Race in Voter Turnout](https://www.researchgate.net/publication/272525356_Candidates_or_Districts_Reevaluating_the_Role_of_Race_in_Voter_Turnout)." _American Journal of Political Science_ 60, no. 1 (2016): 97–122.
+Fraga, Bernard L. "{{% resource_link "311ed750-b701-4035-b32d-2543c652d313" "Candidates or Districts? Reevaluating the Role of Race in Voter Turnout" %}}." _American Journal of Political Science_ 60, no. 1 (2016): 97–122.
 
 
 {{< tdclose >}}
@@ -500,9 +500,9 @@ Consequences of Elections
 {{< tdopen >}}
 
 
-Brady, David W., and Craig Volden. "The Origins of Revolving Gridlock" and "Theoretical Foundations." Chapters 1 and 2 in _Revolving Gridlock: Politics and Policy from Jimmy Carter to George W. Bush_. 2nd ed. Routledge, 2019. ISBN: 9780367096885. \[Preview with [Google Books](https://www.google.com/books/edition/Revolving_Gridlock/IvlNDwAAQBAJ?hl=en&gbpv=1&dq=Revolving+Gridlock:+Politics+and+Policy+from+Jimmy+Carter+to+George+W.+Bush&printsec=frontcover)\]
+Brady, David W., and Craig Volden. "The Origins of Revolving Gridlock" and "Theoretical Foundations." Chapters 1 and 2 in _Revolving Gridlock: Politics and Policy from Jimmy Carter to George W. Bush_. 2nd ed. Routledge, 2019. ISBN: 9780367096885. \[Preview with {{% resource_link "dddef26e-fbd5-417d-b2f9-3dd7dbd6bb46" "Google Books" %}}\]
 
-Fowler, Anthony, and Andrew B. Hall. "[Long-Term Consequences of Election Results](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/longterm-consequences-of-election-results/CFEAB44FC69E38F27054CAA17BF894B5)." _British Journal of Political Science_ 47, no. 2 (2017): 351–72.
+Fowler, Anthony, and Andrew B. Hall. "{{% resource_link "42a1bc66-c94c-4fda-8756-5e455f33d5b5" "Long-Term Consequences of Election Results" %}}." _British Journal of Political Science_ 47, no. 2 (2017): 351–72.
 
 
 {{< tdclose >}}
@@ -528,7 +528,7 @@ Evaluating American Democracy
 
 \[S\] Chapter 14: Democracy in Action or a Broken System?
 
-Achen, Christopher, and Larry Bartels. "[Democracy for Realists: Holding Up a Mirror to the Electorate](https://www.researchgate.net/publication/297646694_Democracy_for_realists_Holding_up_a_mirror_to_the_electorate)." _Juncture_ 22, no. 4 (2016): 269–75.
+Achen, Christopher, and Larry Bartels. "{{% resource_link "9e842ba0-049b-483e-820e-5420e6ed40b2" "Democracy for Realists: Holding Up a Mirror to the Electorate" %}}." _Juncture_ 22, no. 4 (2016): 269–75.
 
 
 {{< tdclose >}}
@@ -552,13 +552,13 @@ Reforms I - Voter Fraud and Voter ID
 {{< tdopen >}}
 
 
-Richman, Jesse T., Gulshan A. Chattha, and David C. Earnest. "[Do Non-citizens Vote in U.S. Elections?](https://www.sciencedirect.com/science/article/pii/S0261379414000973)" _Electoral Studies_ 36 (2014): 149–57. 
+Richman, Jesse T., Gulshan A. Chattha, and David C. Earnest. "{{% resource_link "680d9bae-dcbe-48ca-8cd8-af1f2753f77e" "Do Non-citizens Vote in U.S. Elections?" %}}" _Electoral Studies_ 36 (2014): 149–57. 
 
-Cottrell, David, Michael C. Herron, and Sean J. Westwood. "[An Exploration of Donald Trump's Allegations of Massive Voter Fraud in the 2016 General Election](https://www.sciencedirect.com/science/article/pii/S026137941730166X)." _Electoral Studies_ 51 (2018): 123–42
+Cottrell, David, Michael C. Herron, and Sean J. Westwood. "{{% resource_link "c7f0d7be-f490-4ead-9e63-8c116fc61ee5" "An Exploration of Donald Trump's Allegations of Massive Voter Fraud in the 2016 General Election" %}}." _Electoral Studies_ 51 (2018): 123–42
 
-Hajnal, Zoltan, Nazita Lajevardi, and Lindsay Nielson. "[Voter Identification Laws and the Suppression of Minority Votes](https://www.journals.uchicago.edu/doi/abs/10.1086/688343)." _Journal of Politics_ 79, no. 2 (2017): 363–79.
+Hajnal, Zoltan, Nazita Lajevardi, and Lindsay Nielson. "{{% resource_link "ceacbfc7-2ee3-42ff-9ed6-0afa9e504693" "Voter Identification Laws and the Suppression of Minority Votes" %}}." _Journal of Politics_ 79, no. 2 (2017): 363–79.
 
-Grimmer, Justin, Eitan Hersh, Marc Meredith, et al. "[Obstacles to Estimating Voter ID Laws' Effect on Turnout](https://www.journals.uchicago.edu/doi/abs/10.1086/696618)." _Journal of Politics_ 80, no. 3 (2018): 1045–51.
+Grimmer, Justin, Eitan Hersh, Marc Meredith, et al. "{{% resource_link "5d4c5bee-a91c-4300-ba9b-4a28ff30280d" "Obstacles to Estimating Voter ID Laws' Effect on Turnout" %}}." _Journal of Politics_ 80, no. 3 (2018): 1045–51.
 
 
 {{< tdclose >}}
@@ -582,11 +582,11 @@ Reforms II - Gerrymandering
 {{< tdopen >}}
 
 
-McCarty, Nolan, Keith T. Poole, and Howard Rosenthal. "[Does Gerrymandering Cause Polarization?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2009.00393.x)" _American Journal of Political Science_ 53, no. 3 (2009): 666–80.
+McCarty, Nolan, Keith T. Poole, and Howard Rosenthal. "{{% resource_link "55cb7574-c9ef-4c5d-83f4-f14d8f93caf2" "Does Gerrymandering Cause Polarization?" %}}" _American Journal of Political Science_ 53, no. 3 (2009): 666–80.
 
-Chen, Jowei, and Jonathan Rodden. "[Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures](https://www.researchgate.net/publication/266869725_Unintentional_Gerrymandering_Political_Geography_and_Electoral_Bias_in_Legislatures)." _Quarterly Journal of Political Science_ 8, no. 3 (2013): 239–69.
+Chen, Jowei, and Jonathan Rodden. "{{% resource_link "883c5cd0-4e10-4d3d-96ad-730ea093442d" "Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures" %}}." _Quarterly Journal of Political Science_ 8, no. 3 (2013): 239–69.
 
-Caughey, Devin, Chris Tausanovitch, and Christopher Warshaw. "[Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies](https://www.researchgate.net/publication/319070333_Partisan_Gerrymandering_and_the_Political_Process_Effects_on_Roll-Call_Voting_and_State_Policies)." _Election Law Journal_ 16, no. 4 (2017): 453–69.
+Caughey, Devin, Chris Tausanovitch, and Christopher Warshaw. "{{% resource_link "0d1429cf-b7d7-4bb1-bed8-7d61321cd53f" "Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies" %}}." _Election Law Journal_ 16, no. 4 (2017): 453–69.
 
 
 {{< tdclose >}}
@@ -610,9 +610,9 @@ Reforms III - Electoral Systems
 {{< tdopen >}}
 
 
-Berinsky, Adam J. "[The Perverse Consequences of Electoral Reform in the United States](https://journals.sagepub.com/doi/10.1177/1532673X04269419)." _American Politics Research_ 33, no. 4 (2005): 471–91.
+Berinsky, Adam J. "{{% resource_link "ebf4c859-b9c2-466c-876c-466a8485bd64" "The Perverse Consequences of Electoral Reform in the United States" %}}." _American Politics Research_ 33, no. 4 (2005): 471–91.
 
-Drutman, Lee. "[This Voting Reform Solves 2 of America's Biggest Political Problems](https://www.vox.com/the-big-idea/2017/4/26/15425492/proportional-voting-polarization-urban-rural-third-parties)." July 26, 2017. Vox.
+Drutman, Lee. "{{% resource_link "a3a413b2-eb2c-41ea-9b22-76c17cb49b54" "This Voting Reform Solves 2 of America's Biggest Political Problems" %}}." July 26, 2017. Vox.
 
 
 {{< tdclose >}}
