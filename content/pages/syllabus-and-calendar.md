@@ -44,12 +44,12 @@ Expectations
     *   Acknowledging the right of others to hold and express contrary views.
     *   When criticizing, focusing on what people said, not who they are.
     *   More generally, helping to foster a safe and welcoming environment for students with a diverse range of perspectives and identities.
-*   **Maintain academic integrity.** Among other things, this means never taking credit for words or ideas that are not your own, and always giving your readers enough information to evaluate the source and quality of your evidence. For more information on plagiarism and academic integrity, consult [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+*   **Maintain academic integrity.** Among other things, this means never taking credit for words or ideas that are not your own, and always giving your readers enough information to evaluate the source and quality of your evidence. For more information on plagiarism and academic integrity, consult {{% resource_link "fca98ed7-865a-4ac9-8008-57da02f603c6" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Required Books
 --------------
 
-Sides, John, Daron Shaw, Matt Grossmann, et al. _[Campaigns and Elections](https://wwnorton.com/books/9780393664676)_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
+Sides, John, Daron Shaw, Matt Grossmann, et al. _{{% resource_link "346d99a5-bc2d-4fe3-9859-519577107d54" "Campaigns and Elections" %}}_. 3rd ed. W. W. Norton & Company, 2019. ISBN: 9780393664676.
 
 Additional readings can be found in the {{% resource_link 15367b5d-035b-00e7-0730-5ec39cd968d1 "Readings" %}} section.
 
